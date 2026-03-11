@@ -1,6 +1,5 @@
 # Superstore Profit Optimization Analysis 🚀
-
-https://github.com/riyabisht18/Superstore-Profit-Optimization-Analysis-/blob/17741fa6eb8e99cc7ad5ffecca4bf854c515e478/Dashboard_Image.png
+![Image Alt](). 
 
 ## 📌 Executive Summary
 **Goal:** Increase Profit Margin from **12.5%** to **20%**.
@@ -49,3 +48,4 @@ I analyzed **5,009 retail transactions** using **SQL Server** and discovered tha
 ### 🚀 Conclusion
 
 This project demonstrates how data analysis can solve business problems. A simple, data-backed policy change achieves the **20% margin goal** and increases annual profit by **62%**.
+
