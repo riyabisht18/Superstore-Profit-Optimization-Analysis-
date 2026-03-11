@@ -90,4 +90,4 @@ This analysis demonstrates how fundamental SQL aggregation (GROUP BY, CASE state
 *Dataset: Sample Superstore (public dataset used for analytical practice)*
 
 
-You are ready to upload this to GitHub.
+
