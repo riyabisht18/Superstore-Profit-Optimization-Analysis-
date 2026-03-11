@@ -1,8 +1,6 @@
 # Superstore Profit Optimization Analysis 🚀
 ![Image Alt](https://github.com/riyabisht18/Superstore-Profit-Optimization-Analysis-/blob/860218f6e7b2e09a3a237cad82f7c65e83b4d021/Dashboard_Image.png). 
 
-# Superstore Profit Optimization
-
 **Objective:** Identify profit margin leakage (currently 12.5%) and model a solution to achieve 20% margin.
 
 **Result:** Analysis of 5,009 transactions reveals that discounts exceeding 20% generate losses. Capping discounts at 20% projects a profit increase of $177,000 (+62%).
@@ -60,15 +58,15 @@ RFM (Recency, Frequency, Monetary) analysis categorizes the customer base:
 - Zero implementation cost (policy change only)
 
 **How to Apply This:**
-- First: Test this in Texas and Ohio only (these states lose the most money)
-- Check: Wait 30 days and see if too many customers leave
-- Then: If profit goes up, apply to all other states
+- **First:** Test this in Texas and Ohio only (these states lose the most money)
+- **Check:** Wait 30 days and see if too many customers leave
+- **Then:** If profit goes up, apply to all other states
 
 ---
 
 ## Technical Approach
 
-- **SQL Server:** 
+- **SQL Server:**
   - Aggregate functions (GROUP BY, SUM, COUNT) for discount tier analysis
   - CASE statements for profit categorization
   - CTEs for RFM scoring
@@ -89,8 +87,7 @@ RFM (Recency, Frequency, Monetary) analysis categorizes the customer base:
 
 This analysis demonstrates how fundamental SQL aggregation (GROUP BY, CASE statements) can expose critical business thresholds. Identifying the exact discount limit where profitability inverts (20%) enables a zero-cost policy intervention that recovers $177,000 in annual profit.
 
----
-
 *Dataset: Sample Superstore (public dataset used for analytical practice)*
 
 
+You are ready to upload this to GitHub.
