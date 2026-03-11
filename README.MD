@@ -59,12 +59,10 @@ RFM (Recency, Frequency, Monetary) analysis categorizes the customer base:
 - Increases net profit to $464,000 (+62%)
 - Zero implementation cost (policy change only)
 
-**Rollout Strategy:**
-1. **Phase 1:** Test in Texas and Ohio (highest loss concentration)
-2. **Phase 2:** Monitor customer response metrics
-3. **Phase 3:** Expand to remaining regions based on Phase 1 results
-
-**VIP Alternative:** Replace deep discounts with value-add benefits (free shipping, priority support) for Champion-tier customers.
+**How to Apply This:**
+- First: Test this in Texas and Ohio only (these states lose the most money)
+- Check: Wait 30 days and see if too many customers leave
+- Then: If profit goes up, apply to all other states
 
 ---
 
@@ -94,4 +92,5 @@ This analysis demonstrates how fundamental SQL aggregation (GROUP BY, CASE state
 ---
 
 *Dataset: Sample Superstore (public dataset used for analytical practice)*
+
 
