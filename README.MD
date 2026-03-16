@@ -11,7 +11,7 @@
 
 | Metric | Current State | Projected State | Impact |
 |--------|---------------|-----------------|--------|
-| **Profit** | $287K | $464K | +$177K |
+| **Profit** | $286K | $464K | +$177K |
 | **Margin** | 12.5% | 20.2% | Target Met |
 | **Discount Cap** | None | 20% Max | Policy Change |
 
