@@ -87,7 +87,7 @@ RFM (Recency, Frequency, Monetary) analysis categorizes the customer base:
 
 This analysis demonstrates how fundamental SQL aggregation (GROUP BY, CASE statements) can expose critical business thresholds. Identifying the exact discount limit where profitability inverts (20%) enables a zero-cost policy intervention that recovers $177,000 in annual profit.
 
-*Dataset: Sample Superstore (public dataset used for analytical practice)*
+
 
 
 
